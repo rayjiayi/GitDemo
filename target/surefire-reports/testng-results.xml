@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-04T19:45:21 PDT" name="Suite" finished-at="2020-10-04T19:45:21 PDT" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2020-10-04T19:45:21 PDT" name="Test" finished-at="2020-10-04T19:45:21 PDT" duration-ms="66">
+      <class name="groupIDMaven.artifactIDMaven.AppiumTest">
+        <test-method signature="appDetect()[pri:0, instance:groupIDMaven.artifactIDMaven.AppiumTest@351d0846]" started-at="2020-10-04T19:45:21 PDT" name="appDetect" finished-at="2020-10-04T19:45:21 PDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appDetect -->
+        <test-method signature="mobileLogin()[pri:0, instance:groupIDMaven.artifactIDMaven.AppiumTest@351d0846]" started-at="2020-10-04T19:45:21 PDT" name="mobileLogin" finished-at="2020-10-04T19:45:21 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLogin -->
+      </class> <!-- groupIDMaven.artifactIDMaven.AppiumTest -->
+      <class name="groupIDMaven.artifactIDMaven.SeleniumTest">
+        <test-method signature="BrowserTest()[pri:0, instance:groupIDMaven.artifactIDMaven.SeleniumTest@77e4c80f]" started-at="2020-10-04T19:45:21 PDT" name="BrowserTest" finished-at="2020-10-04T19:45:21 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method signature="elementUI()[pri:0, instance:groupIDMaven.artifactIDMaven.SeleniumTest@77e4c80f]" started-at="2020-10-04T19:45:21 PDT" name="elementUI" finished-at="2020-10-04T19:45:21 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- groupIDMaven.artifactIDMaven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
